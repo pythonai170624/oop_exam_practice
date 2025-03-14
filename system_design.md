@@ -86,7 +86,7 @@
 ## 4. דוגמה לשימוש
 
 ```
-warrior = Warrior("Strong elder")
+warrior = Warrior("Brienne of Tarth")
 sword = Weapon("Oath keeper", damage=10, type=WeaponType.SWORD)
 warrior.addItem(sword)
 warrior.equip(sword)
